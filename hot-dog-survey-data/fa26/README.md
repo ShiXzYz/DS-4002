@@ -13,10 +13,10 @@ Hot Dog Survey Data
   
 
 - Quantification of Uncertainty:
-  This survey is a small sample of UVA undergrads so result is going to be an estimate. 66.9% said No and 33.1% said Yes. This are likely to change based off of +-.
+  This survey is a small sample of UVA undergrads so result is going to be an estimate. 66.7% said No and 33.3% said Yes. This are likely to change based off of margin of error that is calculated: +-(%).
   
 - Conclusions:
-  
+  It can be concluded that it is likely that around 66.7% of the UVA undergraduates believe that the hotdog is not a sandwich. The majority of the UVA undergraduates will say that a hotdog is not a sandwich.
 
 
 Sources:
